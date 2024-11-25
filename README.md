@@ -17,7 +17,7 @@ Table of Contents
   
 ## About the Data
 This is an open-source dataset, obtained from Kaggle, and intended for training and practice purposes. The Excel Spreadsheet has 1027 rows and 13 columns. The column names are:  ID, Marital Status, Gender, Income, Children, Education, Occupation, Home Owners, Cars, Commute Distance, Region, Age, Purchases.
-Click [here](online Shop - customers dataset - original.xlsx) for the original dataset.
+Click [here](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Online%20Shop%20-%20Customers%20Dataset%20-%20Original.xlsx) for the original dataset.
 
 ## Executive Summary
 With a thorough analysis, as described in the subsequent steps, it was determined that the typical customer profile consists of married, adult or middle-aged (both male or female), residing in North America and primarily working from home, but targeted ads on the Adolescent segment and Asian market should greatly expand the customer base.
