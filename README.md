@@ -59,7 +59,7 @@ I created a doughnut chart to visualize and analyze the distribution of sales ac
 I integrated various visual elements to create a comprehensive dashboard. To enhance interactivity, I added three slicers, allowing users to filter the data dynamically and explore insights with ease.
 ![]
 
-Click [here]() for the final Excel Dashboard.
+Click [here](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Online%20Shop%20-%20Customers%20Dataset%20-%20Analysis%20Project.xlsx) for the final Excel Dashboard.
 
 ## Insights & Recommendations
  - The typical customer profile consists of married, adult or middle-aged (both male or female), residing in North America and primarily working from home.
