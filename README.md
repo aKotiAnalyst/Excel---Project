@@ -6,7 +6,7 @@ Table of Contents
 - [Executive Summary](#executive-summary)
 - [Data Cleaning and Exploration](#data-cleaning-and-exploration)
 - [Data Analysis](#data-analysis)
-- [Insights & Recommendations](#insights-&-recommendations)
+- [Insights and Recommendations](#insights-and-recommendations)
 - [Caveats](#caveats)
 
 ***
@@ -46,24 +46,24 @@ I created an “Age Group” column to study the demographics. The parameters fo
 The segment of this project focuses on extracting meaningful insights from the cleaned dataset to address the research objectives. I employed pivot tables to efficiently organize, summarize, and analyze the data, extracting key insights to inform decision-making. To complement this, I integrated pivot charts, providing clear and impactful visualizations that addressed critical business questions and aligned with the project's objectives. By interpreting these findings, we aim to provide actionable conclusions and support evidence-based decision-making. The following analysis builds on the foundation of the prepared dataset, ensuring that the results are both accurate and impactful.
 
 I used a cluster column chart titled “Avg Income Per Customer” to examine sale patterns, comparing married vs single and male vs female customers. 
-![]()
-![]()
+![Avg Income per Gender](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/AVG%20Income%20per%20Gender.JPG)
+![Avg Income by Marital Status](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Avg%20Income%20per%20Marital%20Status.JPG)
 
 I created a pie chart for a clear and straightforward overview of the distribution of daily commute distances.
-![]()
+![Daily Commute](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Daily%20Commute%20per%20Customer.JPG)
 
 I utilized a line chart to analyze at the “Customer Age Group” a column was specifically created to enhance the analysis. This was done after the dataset was thoroughly prepared and cleaned in the previous stages.
-![]()
+![Customer Age Group](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Customer%20Age%20Group.JPG)
 
 I created a doughnut chart to visualize and analyze the distribution of sales across different regions, providing a clear and concise overview of regional performance.
-![]()
+![Regional Sales](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Regional%20Sales.JPG)
 
 I integrated various visual elements to create a comprehensive dashboard. To enhance interactivity, I added three slicers, allowing users to filter the data dynamically and explore insights with ease.
 ![]()
 
 Click [here] to examine (https://github.com/aKotiAnalyst/Excel---Project/blob/main/Online%20Shop%20-%20Customers%20Dataset%20-%20Analysis%20Project.xlsx) the final Excel Dashboard.
 
-## Insights & Recommendations
+## Insights and Recommendations
  - The typical customer profile consists of married, adult or middle-aged (both male or female), residing in North America and primarily working from home.
  - The European market, accounting for only 23%, and the Pacific market, at 26%, are currently undervalued and present significant growth potential. Meanwhile, the Asian market, with 0% representation, offers a critical and untapped opportunity for expansion.
  - The Adolescent age group of the market offers substantial opportunities for growth and success, as it has been completely neglected and remains an untapped demographic. By strategically targeting this segment based on specific products, the company can unlock considerable potential and establish a strong presence in this overlooked area.
