@@ -70,7 +70,7 @@ I integrated various visual elements to create a comprehensive dashboard. To enh
 
 ![Dashboard](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Interactive%20Dashboard.JPG)
 
-Click [here](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Online%20Shop%20-%20Customers%20Dataset%20-%20Analysis%20Project.xlsx) to examine the final Excel Dashboard.
+Click [here](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Online%20Shop%20-%20Customers%20Dataset%20-%20Analysis%20Project.xlsx) to examine the final Dashboard in Excel.
 
 ## Insights and Recommendations
  - The typical customer profile consists of married, adult or middle-aged (both male or female), residing in North America and primarily working from home.
