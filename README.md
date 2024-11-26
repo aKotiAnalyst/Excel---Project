@@ -43,6 +43,7 @@ On the “Commute Distance” column changed “10+ Miles” to “More than 10 
 ![Daily Commute](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Daily%20Commute1.jpg) ![Daily Commute](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Daily%20Commute2.jpg)
 
 I created an “Age Group” column to study the demographics. The parameters for grouping were Adolescent (younger than 20 years), Adult (between 20 and 40), Middle-Aged (40 to 60) and Senior (60 plus). For this reason, I choose an IF statement with multiple logical conditions.
+
 ![Age Group Column](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Age%20Group%20IF%20formula.JPG)
 
 ## Data Analysis
@@ -66,6 +67,7 @@ I created a doughnut chart to visualize and analyze the distribution of sales ac
 ![Regional Sales](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Regional%20Sales.JPG)
 
 I integrated various visual elements to create a comprehensive dashboard. To enhance interactivity, I added three slicers, allowing users to filter the data dynamically and explore insights with ease.
+
 ![Dashboard](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Interactive%20Dashboard.JPG)
 
 Click [here](https://github.com/aKotiAnalyst/Excel---Project/blob/main/Online%20Shop%20-%20Customers%20Dataset%20-%20Analysis%20Project.xlsx) to examine the final Excel Dashboard.
