@@ -26,7 +26,7 @@ With a thorough analysis, as described in the subsequent steps, it was determine
 Data cleaning is a fundamental step in any data analysis process, as it ensures the data is accurate, consistent, and ready for meaningful interpretation. Raw datasets often contain errors, inconsistencies, duplicates, or missing values that can compromise the reliability of analysis and lead to flawed insights. By addressing these issues, data cleaning improves the quality and integrity of the dataset, enabling more accurate and trustworthy results. In this section, we outline the data cleaning steps undertaken to prepare the dataset for analysis, ensuring it meets the standards necessary for robust and actionable conclusions.
 
 First, I checked for duplicate rows by selecting the table, going to the Data tab, and using the "Remove Duplicates" function 26 entries were removed.
-![]
+![https://github.com/aKotiAnalyst/Excel---Project/blob/main/Images/Remove%20duplicates.JPG]
 
 To enhance readability, I updated the "Marital Status" column by replacing "M" with "Married" and "S" with "Single." The “Gender” column was also updated by converting "F" to "Female" and "M" to "Male." I made sure to use the “Match entire cell content” option to not modify the heather just the columns.
 ![]
